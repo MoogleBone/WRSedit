@@ -1,4 +1,4 @@
-#Changes in WRSedit version 0.38-1
+#Changes in WRSedit version 0.40-1
 Removed "m1<-elimna(m1)  # Eliminate rows with missing values" from function twoDcorR due to changes to calculated correlation coefficients
 
 # Changes in WRS version 0.38 #
