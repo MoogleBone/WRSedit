@@ -1,5 +1,5 @@
 Encoding: UTF-8
-Package: WRS
+Package: WRSedit
 Type: Package
 Title: A Package of R.R. Wilcox' Robust Statistics Functions
 Version: 0.40-1
