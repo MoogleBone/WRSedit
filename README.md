@@ -23,5 +23,5 @@ Note: On Mac OS you might need to install some developer tools (see here: [https
     # devtools::install_github("mrxiaohe/WRScpp")
     
     # fourth: install WRS
-    install_github("nicebread/WRS", subdir="pkg")
+    install_github("MoogleBone/WRSedit", subdir="pkg")
 
